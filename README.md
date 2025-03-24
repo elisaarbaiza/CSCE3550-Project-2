@@ -8,7 +8,7 @@ This project uses Python to extend from Project 1. This project aims to have a f
 - I used DeepSeek AI to complete the test suite. I imported my ```main.py``` file to the machine and prompted it to create a test suite based on the code. 
 
 ## Installation Instructions
--	Download the project folder with the LICENSE, gradebot.exe, main.py, and totally_not_my_privateKeys.db. 
+-	Download the project folder with the LICENSE, gradebot.exe, main.py, test_suite_project2.py, and totally_not_my_privateKeys.db. 
 -	Open a terminal.
 -	Change directories to the folder. 
 -	Run the main.py file by running ```python .\main.py```
@@ -17,4 +17,6 @@ This project uses Python to extend from Project 1. This project aims to have a f
 -	Leave this console open. The program should now be running.
 -	In a separate console, change directories to the folder (where the grade bot is stored).
 -	Run the grade bot using the command ```gradebot.exe project2```
--	The command should execute like the screenshot provided. 
+-	The command should execute like the screenshot provided.
+-	To run the test suite, ensure you are in the right directory.
+-	Use command ```pytest --cov=. ``` to test. 
