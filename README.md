@@ -19,4 +19,4 @@ This project uses Python to extend from Project 1. This project aims to have a f
 -	Run the grade bot using the command ```gradebot.exe project2```
 -	The command should execute like the screenshot provided.
 -	To run the test suite, ensure you are in the right directory.
--	Use command ```pytest --cov=. ``` to test. 
+-	Use command ```pytest --cov=.``` to test. 
