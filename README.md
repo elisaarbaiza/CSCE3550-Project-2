@@ -5,6 +5,7 @@ This project uses Python to extend from Project 1. This project aims to have a f
 
 ## Sources
 I used the base file for Project 1 provided by Professor Hochstetler. 
+I used DeepSeek AI to complete the test suite. I imported my ```main.py``` file to the machine and prompted it to create a test suite based on the code. 
 
 ## Installation Instructions
 -	Download the project folder with the LICENSE, gradebot.exe, main.py, and totally_not_my_privateKeys.db. 
